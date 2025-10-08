@@ -41,6 +41,9 @@ my_list.pop(4)
 del my_list[2]
 print(my_list)
 
+
+
+
 # Change elements
 my_list[0] = 20
 
